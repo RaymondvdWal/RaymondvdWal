@@ -6,14 +6,14 @@ Mijn naam is Raymond van der Wal en via de bootcamp fullstack software developme
 <p align="center">Frontend</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,html,js,figma" />
+    <img src="https://skillicons.dev/icons?i=react,css,html,js,figma,nodejs,git" />
   </a>
 </p>
 
 <p align="center">Backend</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,maven,postgres,postman," />
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,maven,postgres,postman,git" />
   </a>
 </p>
 
